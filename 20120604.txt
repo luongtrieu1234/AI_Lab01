@@ -1,0 +1,11 @@
+1. DFS
+https://www.youtube.com/watch?v=c_Y2puQbXlY
+
+2. BFS
+https://youtu.be/gxeAc_XnRjQ
+
+3. UCS
+https://youtu.be/gZIF4pi4xwQ
+
+4. A*
+https://youtu.be/xuPtw7oEEvw
